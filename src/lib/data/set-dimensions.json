@@ -1,0 +1,476 @@
+{
+	"10280": {
+		"name": "Flower Bouquet",
+		"w_cm": 20,
+		"h_cm": 23,
+		"d_cm": 8,
+		"tier": "medium",
+		"verified": true
+	},
+	"10281": {
+		"name": "Bonsai Tree",
+		"w_cm": 18,
+		"h_cm": 22,
+		"d_cm": 10,
+		"tier": "medium",
+		"verified": true
+	},
+	"10294": {
+		"name": "Titanic",
+		"w_cm": 136,
+		"h_cm": 27,
+		"d_cm": 18,
+		"tier": "xl",
+		"verified": true
+	},
+	"10311": {
+		"name": "Orchid",
+		"w_cm": 12,
+		"h_cm": 28,
+		"d_cm": 12,
+		"tier": "small",
+		"verified": true
+	},
+	"75192": {
+		"name": "Millennium Falcon",
+		"w_cm": 84,
+		"h_cm": 22,
+		"d_cm": 56,
+		"tier": "xl",
+		"verified": true
+	},
+	"75313": { "name": "AT-AT", "w_cm": 68, "h_cm": 53, "d_cm": 24, "tier": "xl", "verified": true },
+	"10300": {
+		"name": "Back to the Future Time Machine",
+		"w_cm": 56,
+		"h_cm": 14,
+		"d_cm": 15,
+		"tier": "large",
+		"verified": true
+	},
+	"10290": {
+		"name": "Pickup Truck",
+		"w_cm": 47,
+		"h_cm": 18,
+		"d_cm": 16,
+		"tier": "large",
+		"verified": true
+	},
+	"21325": {
+		"name": "Medieval Blacksmith",
+		"w_cm": 26,
+		"h_cm": 26,
+		"d_cm": 18,
+		"tier": "medium",
+		"verified": true
+	},
+	"10305": {
+		"name": "Lion Knights Castle",
+		"w_cm": 69,
+		"h_cm": 43,
+		"d_cm": 27,
+		"tier": "xl",
+		"verified": true
+	},
+	"10307": {
+		"name": "Eiffel Tower",
+		"w_cm": 57,
+		"h_cm": 149,
+		"d_cm": 57,
+		"tier": "xl",
+		"verified": true
+	},
+	"10316": {
+		"name": "The Lord of the Rings: Rivendell",
+		"w_cm": 75,
+		"h_cm": 39,
+		"d_cm": 50,
+		"tier": "xl",
+		"verified": true
+	},
+	"10333": {
+		"name": "The Lord of the Rings: Barad-dûr",
+		"w_cm": 45,
+		"h_cm": 83,
+		"d_cm": 30,
+		"tier": "xl",
+		"verified": true
+	},
+	"76269": {
+		"name": "Avengers Tower",
+		"w_cm": 34,
+		"h_cm": 90,
+		"d_cm": 25,
+		"tier": "xl",
+		"verified": true
+	},
+	"76178": {
+		"name": "Daily Bugle",
+		"w_cm": 27,
+		"h_cm": 82,
+		"d_cm": 27,
+		"tier": "xl",
+		"verified": true
+	},
+	"76218": {
+		"name": "Sanctum Sanctorum",
+		"w_cm": 31,
+		"h_cm": 32,
+		"d_cm": 26,
+		"tier": "large",
+		"verified": true
+	},
+	"76417": {
+		"name": "Gringotts Wizarding Bank",
+		"w_cm": 32,
+		"h_cm": 75,
+		"d_cm": 25,
+		"tier": "xl",
+		"verified": true
+	},
+	"75978": {
+		"name": "Diagon Alley",
+		"w_cm": 102,
+		"h_cm": 29,
+		"d_cm": 13,
+		"tier": "xl",
+		"verified": true
+	},
+	"71043": {
+		"name": "Hogwarts Castle",
+		"w_cm": 69,
+		"h_cm": 58,
+		"d_cm": 43,
+		"tier": "xl",
+		"verified": true
+	},
+	"76419": {
+		"name": "Hogwarts Castle and Grounds",
+		"w_cm": 35,
+		"h_cm": 21,
+		"d_cm": 25,
+		"tier": "large",
+		"verified": true
+	},
+	"21330": {
+		"name": "Home Alone",
+		"w_cm": 34,
+		"h_cm": 27,
+		"d_cm": 37,
+		"tier": "large",
+		"verified": true
+	},
+	"21318": {
+		"name": "Tree House",
+		"w_cm": 37,
+		"h_cm": 37,
+		"d_cm": 27,
+		"tier": "large",
+		"verified": true
+	},
+	"21322": {
+		"name": "Pirates of Barracuda Bay",
+		"w_cm": 64,
+		"h_cm": 59,
+		"d_cm": 32,
+		"tier": "xl",
+		"verified": true
+	},
+	"21327": {
+		"name": "Typewriter",
+		"w_cm": 27,
+		"h_cm": 11,
+		"d_cm": 26,
+		"tier": "medium",
+		"verified": true
+	},
+	"21332": {
+		"name": "The Globe",
+		"w_cm": 30,
+		"h_cm": 40,
+		"d_cm": 26,
+		"tier": "large",
+		"verified": true
+	},
+	"21338": {
+		"name": "A-Frame Cabin",
+		"w_cm": 44,
+		"h_cm": 28,
+		"d_cm": 24,
+		"tier": "large",
+		"verified": true
+	},
+	"21344": {
+		"name": "The Orient Express Train",
+		"w_cm": 116,
+		"h_cm": 12,
+		"d_cm": 8,
+		"tier": "xl",
+		"verified": true
+	},
+	"21348": {
+		"name": "Dungeons & Dragons: Red Dragon's Tale",
+		"w_cm": 37,
+		"h_cm": 48,
+		"d_cm": 30,
+		"tier": "xl",
+		"verified": true
+	},
+	"21349": {
+		"name": "Tuxedo Cat",
+		"w_cm": 20,
+		"h_cm": 32,
+		"d_cm": 23,
+		"tier": "large",
+		"verified": true
+	},
+	"21350": { "name": "Jaws", "w_cm": 59, "h_cm": 35, "d_cm": 20, "tier": "xl", "verified": true },
+	"21351": {
+		"name": "The Nightmare Before Christmas",
+		"w_cm": 51,
+		"h_cm": 32,
+		"d_cm": 27,
+		"tier": "xl",
+		"verified": true
+	},
+	"21353": {
+		"name": "The Botanical Garden",
+		"w_cm": 51,
+		"h_cm": 22,
+		"d_cm": 25,
+		"tier": "large",
+		"verified": true
+	},
+	"10326": {
+		"name": "Natural History Museum",
+		"w_cm": 39,
+		"h_cm": 31,
+		"d_cm": 25,
+		"tier": "large",
+		"verified": true
+	},
+	"10312": {
+		"name": "Jazz Club",
+		"w_cm": 25,
+		"h_cm": 30,
+		"d_cm": 26,
+		"tier": "large",
+		"verified": true
+	},
+	"10332": {
+		"name": "Medieval Town Square",
+		"w_cm": 36,
+		"h_cm": 25,
+		"d_cm": 25,
+		"tier": "large",
+		"verified": true
+	},
+	"10297": {
+		"name": "Boutique Hotel",
+		"w_cm": 25,
+		"h_cm": 33,
+		"d_cm": 25,
+		"tier": "large",
+		"verified": true
+	},
+	"10318": {
+		"name": "Concorde",
+		"w_cm": 105,
+		"h_cm": 15,
+		"d_cm": 43,
+		"tier": "xl",
+		"verified": true
+	},
+	"10327": {
+		"name": "Dune Atreides Royal Ornithopter",
+		"w_cm": 79,
+		"h_cm": 23,
+		"d_cm": 57,
+		"tier": "xl",
+		"verified": true
+	},
+	"10337": {
+		"name": "Lamborghini Countach 5000 Quattrovalvole",
+		"w_cm": 34,
+		"h_cm": 9,
+		"d_cm": 16,
+		"tier": "medium",
+		"verified": true
+	},
+	"10330": {
+		"name": "McLaren MP4/4 & Ayrton Senna",
+		"w_cm": 32,
+		"h_cm": 12,
+		"d_cm": 17,
+		"tier": "medium",
+		"verified": true
+	},
+	"10302": {
+		"name": "Optimus Prime",
+		"w_cm": 12,
+		"h_cm": 35,
+		"d_cm": 27,
+		"tier": "large",
+		"verified": true
+	},
+	"10328": {
+		"name": "Bouquet of Roses",
+		"w_cm": 31,
+		"h_cm": 31,
+		"d_cm": 12,
+		"tier": "medium",
+		"verified": true
+	},
+	"10329": {
+		"name": "Tiny Plants",
+		"w_cm": 17,
+		"h_cm": 16,
+		"d_cm": 17,
+		"tier": "small",
+		"verified": true
+	},
+	"10314": {
+		"name": "Dried Flower Centrepiece",
+		"w_cm": 40,
+		"h_cm": 13,
+		"d_cm": 13,
+		"tier": "medium",
+		"verified": true
+	},
+	"10289": {
+		"name": "Bird of Paradise",
+		"w_cm": 40,
+		"h_cm": 46,
+		"d_cm": 30,
+		"tier": "large",
+		"verified": true
+	},
+	"10315": {
+		"name": "Tranquil Garden",
+		"w_cm": 32,
+		"h_cm": 20,
+		"d_cm": 20,
+		"tier": "medium",
+		"verified": true
+	},
+	"75331": {
+		"name": "The Razor Crest",
+		"w_cm": 72,
+		"h_cm": 24,
+		"d_cm": 50,
+		"tier": "xl",
+		"verified": true
+	},
+	"75355": {
+		"name": "X-wing Starfighter",
+		"w_cm": 55,
+		"h_cm": 27,
+		"d_cm": 44,
+		"tier": "xl",
+		"verified": true
+	},
+	"75367": {
+		"name": "Venator-Class Republic Attack Cruiser",
+		"w_cm": 109,
+		"h_cm": 32,
+		"d_cm": 54,
+		"tier": "xl",
+		"verified": true
+	},
+	"75341": {
+		"name": "Luke Skywalker's Landspeeder",
+		"w_cm": 49,
+		"h_cm": 17,
+		"d_cm": 30,
+		"tier": "large",
+		"verified": true
+	},
+	"75308": {
+		"name": "R2-D2",
+		"w_cm": 20,
+		"h_cm": 31,
+		"d_cm": 15,
+		"tier": "medium",
+		"verified": true
+	},
+	"75379": {
+		"name": "R2-D2",
+		"w_cm": 16,
+		"h_cm": 24,
+		"d_cm": 11,
+		"tier": "medium",
+		"verified": true
+	},
+	"75382": {
+		"name": "TIE Interceptor",
+		"w_cm": 40,
+		"h_cm": 32,
+		"d_cm": 33,
+		"tier": "large",
+		"verified": true
+	},
+	"42115": {
+		"name": "Lamborghini Sián FKP 37",
+		"w_cm": 60,
+		"h_cm": 13,
+		"d_cm": 25,
+		"tier": "xl",
+		"verified": true
+	},
+	"42143": {
+		"name": "Ferrari Daytona SP3",
+		"w_cm": 59,
+		"h_cm": 14,
+		"d_cm": 25,
+		"tier": "xl",
+		"verified": true
+	},
+	"42156": {
+		"name": "Peugeot 9X8 24H Le Mans Hybrid Hypercar",
+		"w_cm": 50,
+		"h_cm": 13,
+		"d_cm": 22,
+		"tier": "large",
+		"verified": true
+	},
+	"42171": {
+		"name": "Mercedes-AMG F1 W14 E Performance",
+		"w_cm": 63,
+		"h_cm": 13,
+		"d_cm": 26,
+		"tier": "xl",
+		"verified": true
+	},
+	"42172": {
+		"name": "McLaren P1",
+		"w_cm": 59,
+		"h_cm": 14,
+		"d_cm": 25,
+		"tier": "xl",
+		"verified": true
+	},
+	"10295": {
+		"name": "Porsche 911",
+		"w_cm": 35,
+		"h_cm": 10,
+		"d_cm": 16,
+		"tier": "medium",
+		"verified": true
+	},
+	"10274": {
+		"name": "Ghostbusters ECTO-1",
+		"w_cm": 47,
+		"h_cm": 22,
+		"d_cm": 16,
+		"tier": "large",
+		"verified": true
+	},
+	"10283": {
+		"name": "NASA Space Shuttle Discovery",
+		"w_cm": 54,
+		"h_cm": 21,
+		"d_cm": 34,
+		"tier": "xl",
+		"verified": true
+	}
+}
